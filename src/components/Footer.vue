@@ -57,5 +57,4 @@
     <!-- end footer  -->
 </template>
 <style scoped>
-
 </style>
